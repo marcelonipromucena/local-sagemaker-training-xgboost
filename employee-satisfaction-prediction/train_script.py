@@ -2,6 +2,7 @@ import pandas as pd
 import xgboost as xgb
 import os
 import argparse
+import json
 
 def main():
     parser = argparse.ArgumentParser()
@@ -22,6 +23,12 @@ def main():
     y = df.iloc[:, -1]   # Target: last column
 
     X = pd.get_dummies(X)
+
+        # depois de X = pd.get_dummies(X)
+    feature_cols = list(X.columns)
+    os.makedirs(args.model_dir, exist_ok=True)
+    with open(os.path.join(args.model_dir, "feature_columns.json"), "w") as f:
+        json.dump(feature_cols, f)
 
 
     # Train model
