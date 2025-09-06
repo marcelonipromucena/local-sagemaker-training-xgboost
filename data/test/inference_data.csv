@@ -1,0 +1,10 @@
+DATE,PRICE,ADDRESS,AREAS,BEDROOMS,PARKING-SPACES,BATHROOMS,CONDOMÍNIO,IPTU,TIPO
+2021-08-05 16:34:17.725797-03:00,Sob consulta,"Rua João de Abreu, Setor Oeste",222 - 485 m²,3 - 4,2 - 4,3 - 5,,,apartamentos
+2021-08-05 16:34:17.726263-03:00,R$ 430.000,"Rua R 7, Setor Oeste",66 - 68 m²,2,2,2 - 3,,,apartamentos
+2021-08-05 16:34:17.726628-03:00,R$ 345.000,"Rua 7, Setor Oeste",34 - 76 m²,1 - 2,1,1,,,apartamentos
+2021-08-05 16:34:17.726966-03:00,R$ 420.000,"Setor Bueno, Goiânia",89 m²,3,1,2,,,apartamentos
+2021-08-05 16:34:17.727328-03:00,R$ 1.018.000,"Setor Bueno, Goiânia",175 m²,4,5,4,R$ 650,R$ 2.000,apartamentos
+2021-08-05 16:34:17.727763-03:00,R$ 985.000,"Rua 1124, Setor Marista",140 m²,2,2,3,R$ 850,,apartamentos
+2021-08-05 16:34:17.728188-03:00,R$ 235.000,"Avenida Berlim, Jardim Europa",64 m²,2,1,2,R$ 317,R$ 386,apartamentos
+2021-08-05 16:34:17.728618-03:00,R$ 355.000,"Avenida Leblon, Jardim Atlântico",84 m²,3,1,2,R$ 350,R$ 900,apartamentos
+2021-08-05 16:34:17.729058-03:00,R$ 365.000,"Rua 220, Setor Coimbra",64 m²,2,1,2,R$ 435,R$ 750,apartamentos
